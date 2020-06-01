@@ -1,6 +1,7 @@
 # Contributors
 
 - [aiden](https://github.com/acdlbs)
+- [adamalston](https://github.com/adamalston)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
@@ -15911,3 +15912,4 @@ Mário Baltazar
 - [leoperegrino](https://github.com/leoperegrino)
 - [abbasafzal10](https://github.com/abbasafzal10)
 - [Kamil Serafinowicz] (https://github.com/Seraphimus)
+
